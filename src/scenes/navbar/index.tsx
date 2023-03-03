@@ -44,7 +44,7 @@ const index = ({ isTopOfPage, selectedPage, setSelectedPage }: Props) => {
                     setSelectedPage={setSelectedPage}
                   />
                   <Link
-                    page="Out Classes"
+                    page="Our Classes"
                     selectedPage={selectedPage}
                     setSelectedPage={setSelectedPage}
                   />
@@ -95,7 +95,7 @@ const index = ({ isTopOfPage, selectedPage, setSelectedPage }: Props) => {
               setSelectedPage={setSelectedPage}
             />
             <Link
-              page="Out Classes"
+              page="Our Classes"
               selectedPage={selectedPage}
               setSelectedPage={setSelectedPage}
             />
